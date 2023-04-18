@@ -17,7 +17,7 @@ Le programme prend en entrée un fichier trace (format texte) contenant les octe
 * L'offset est codé sur quatre chiffres hexadécimaux.
 * Les caractères hexadécimaux peuvent être des majuscules ou minuscules.
 
-###En sortie : 
+### En sortie : 
 le programme affiche les trames par ordre chronologique et indique pour chaque trame : 
 * l'adresse IP des deux machines impliquées. 
 * le numéro de port utilisé

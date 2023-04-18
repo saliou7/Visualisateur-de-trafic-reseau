@@ -5,12 +5,6 @@ Un flux de trafic fait référence aux trames échangées dans le cadre d’un p
 exécuté à l’initiative de deux machines, chacune identifiée par une adresse MAC, 
 une adresse IP et éventuellement par un numéro de port. 
 
-Les protocoles pris en charge sont : 
-* Ethernet
-* IPv4
-* TCP
-* HTTP.
-* 
 ## Instructions à suivre
 ### En entrée : 
 
@@ -31,6 +25,13 @@ le programme affiche les trames par ordre chronologique et indique pour chaque t
 Le programme offre également un ensemble de filtres pour visualiser un des flots réseaux en sélectionnant les adresses IP des machines à l'origine d'un flot et/ou d'un protocole en particulier. Le résultat du visualisateur est affiché sur le terminal et également sauvegardé dans un fichier texte pour faciliter sa lecture.
 	
 ### Autres informations
+
+**Les protocoles pris en charge sont : **
+* Ethernet
+* IPv4
+* TCP
+* HTTP.
+
 Pour executer le programme, il faut déja avoir installé python 
 ``` 
 commande : python exec.py <"nom du fichier contenant les trames">

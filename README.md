@@ -26,7 +26,7 @@ Le programme offre également un ensemble de filtres pour visualiser un des flot
 	
 ### Autres informations
 
-**Les protocoles pris en charge sont : **
+**Les protocoles pris en charge sont :**
 * Ethernet
 * IPv4
 * TCP

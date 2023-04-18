@@ -32,7 +32,7 @@ Le programme offre également un ensemble de filtres pour visualiser un des flot
 * TCP
 * HTTP.
 
-Pour executer le programme, il faut déja avoir installé python 
+Pour executer le programme, il ecrire la commande suivante (necessaire d'avoir installé python ) :
 ``` 
 commande : python exec.py <"nom du fichier contenant les trames">
 ```
